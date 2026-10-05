@@ -5,7 +5,7 @@ age = int(input("Enter your age: "))
 course = input("Enter your course: ")
 
 print("\n--- Student Details ---")
-print("Name:", Lipsita)
+print("Name:", sakti)
 print("Age:", 22)
 print("Course:", course)
 
